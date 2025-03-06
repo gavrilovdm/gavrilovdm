@@ -1,4 +1,8 @@
-## Hi there 👋
+[![An image of @gavrilovdm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gavrilovdm)](https://holopin.io/@gavrilovdm)
+
+## Senior Software Engineer (remote)
+Pragmatic software engineer with more than 5 years of experience, specializing in frontend development with a diverse background that includes full-stack and lead roles. Strong team player capable of solving complex problems with any given stack, thriving in fast-paced environments. Proficient in end-to-end development and maintenance of internal UI and tooling solutions for mid-to-large product companies. Led multiple projects from scratch, including independently built software solutions.
+
 
 <!--
 **gavrilovdm/gavrilovdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
